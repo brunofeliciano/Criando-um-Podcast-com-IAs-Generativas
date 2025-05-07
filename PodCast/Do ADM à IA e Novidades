@@ -1,0 +1,52 @@
+# 🎙️ Episódio 01 – Do ADM à IA e Novidades  
+**Tema:** Do servidor ao Copilot: o que mudou no papel do administrador?
+
+---
+
+## 🎧 [PARTE 1] – Introdução ao Podcast: como surgiu, quando surgiu e curiosidades
+
+Seja muito bem-vindo ao episódio de estreia do **"Do ADM à IA e Novidades"**, um podcast feito de administrador pra administrador! Aqui a gente fala a real sobre o que acontece nos bastidores da gestão do Microsoft 365 – com foco em segurança, automação, produtividade e, claro, o novo integrante da nossa rotina: a inteligência artificial.
+
+Esse podcast surgiu no segundo semestre de 2024, quando comecei a perceber que muita gente da área técnica estava perdida com a avalanche de mudanças que a Microsoft tem implementado. Desde a chegada do Copilot até os ajustes nas políticas de segurança, ficou claro que faltava um espaço pra trocar ideia de forma simples, direta e sem aquele "tecniquês elitizado". Quis criar um canal pra compartilhar experiências do dia a dia, aquelas que a gente só entende depois de quebrar a cabeça em um rollout ou de madrugar num incidente.
+
+Uma curiosidade legal: o nome "Do ADM à IA" surgiu de uma conversa entre colegas quando falamos "mano, o trampo mudou... a gente saiu de administrar GPO pra conversar com IA!". E faz sentido: hoje o administrador de TI precisa entender de script, nuvem, governança de dados e agora até prompt engineering. Não dá mais pra viver só de resetar senha e liberar porta no firewall. Aqui, a ideia é aprender junto, trocar ideia e rir das zicas que só a galera da TI entende.
+
+---
+
+## ☁️ [PARTE 2] – O que é Microsoft 365 e o que é Copilot
+
+O Microsoft 365 é um conjunto de ferramentas de produtividade e colaboração baseadas em nuvem, oferecido pela Microsoft. Muita gente ainda acha que se resume ao Word, Excel e PowerPoint, mas vai muito além disso. Estamos falando de um ecossistema que inclui serviços como o Teams, SharePoint, Exchange Online, OneDrive, Power Platform, Defender for Office, entre outros. Tudo conectado, rodando na nuvem, com foco em integração, segurança e produtividade corporativa.
+
+Agora, o **Copilot** veio pra revolucionar esse universo. Ele é uma inteligência artificial generativa que está sendo incorporada em ferramentas do M365 como Word, Excel, Outlook, Teams e PowerPoint. Ele usa modelos de linguagem natural pra gerar textos, resumir e-mails, montar apresentações, criar planilhas e até sugerir automações no Power Automate. Tudo com base nos dados da organização — e isso é o ponto-chave. Ele não “inventa” nada: ele interpreta os dados que já existem, respeitando os acessos e permissões de cada usuário.
+
+Mas o uso do Copilot não é plug-and-play. É preciso uma base sólida: estrutura de dados organizada, permissões bem definidas, políticas de segurança e um bom trabalho de governança. E adivinha quem cuida disso? O administrador. É ele quem prepara o terreno pra IA trabalhar com segurança e eficiência. E aí que entra o novo perfil do admin: aquele que entende como a IA se conecta ao Microsoft Graph, como ela acessa os dados via APIs, e como garantir que isso seja feito com ética e controle.
+
+---
+
+## 🔧 [PARTE 3] – Quais são as tarefas do administrador e principais novidades sobre o tema
+
+O papel do administrador do Microsoft 365 mudou bastante nos últimos anos. Antes, o foco era em tarefas operacionais como criar usuários, atribuir licenças, configurar o Exchange e manter o ambiente funcional. Hoje, esse mesmo profissional precisa dominar segurança em nuvem, gestão de identidade com o Entra ID (antigo Azure AD), políticas de proteção de dados com o Microsoft Purview, além de atuar na parte de automações com PowerShell e Power Platform.
+
+E não para por aí. Com a chegada do Copilot, o administrador precisa garantir que os dados estejam disponíveis de forma segura e com os acessos corretos. Isso significa revisar permissões no SharePoint, aplicar rotulagem de sensibilidade, configurar regras de DLP (Data Loss Prevention), ativar políticas de retenção e fazer auditoria com o Compliance Center. É uma rotina que mistura TI, governança e até um pouco de LGPD.
+
+Entre as novidades mais quentes, podemos destacar:
+- **Copilot Studio**, que permite criar bots com IA personalizados dentro do Teams.
+- **Microsoft Entra Workload Identities**, pra proteger aplicações e serviços automatizados.
+- **Relatórios de Copilot no Admin Center**, que ajudam a monitorar uso e impacto da IA.
+- **Recomendações do Security Copilot**, que usa IA para sugerir ações de mitigação de ameaças.
+- **Integração com Power Platform Copilot**, que permite criar fluxos automatizados com linguagem natural.
+
+O admin virou uma peça estratégica. Hoje, ele é quem traduz as demandas da empresa para a linguagem da nuvem e da IA. É o elo entre a tecnologia e o negócio. Quem domina essa transição, com visão técnica e pensamento crítico, está um passo à frente no mercado.
+
+---
+
+## ✅ CONCLUSÃO
+
+Se você chegou até aqui, já percebeu que o mundo do administrador Microsoft 365 está longe de ser estático. A rotina mudou, as ferramentas evoluíram, e agora temos um novo integrante na equipe: a inteligência artificial. Mas pra ela funcionar bem, o terreno precisa estar limpo e seguro — e isso continua sendo missão do ADM.
+
+O podcast **"Do ADM à IA e Novidades"** veio pra acompanhar essa evolução. A cada episódio, vamos descomplicar o mundo Microsoft 365, falar sobre segurança, automação, IA, PowerShell, Copilot e tudo que fizer sentido pra quem vive na linha de frente da TI. Aqui a gente troca ideia de verdade, compartilha bastidores e aprende junto — sem filtro, sem formalidade forçada e com um toque de zoeira saudável.
+
+No próximo episódio, vamos falar sobre **como preparar seu ambiente Microsoft 365 para ativar o Copilot com segurança**, passando por práticas recomendadas, erros comuns e dicas de quem já apanhou no rollout.  
+Então ativa as notificações, compartilha com seu time de infra e segue com a gente nessa jornada do ADM à IA. Até mais!
+
+---
